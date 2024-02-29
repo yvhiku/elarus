@@ -92,6 +92,7 @@ ul {
 
 .row {
     display: flex;
+    align-items: center;
 
 }
 
